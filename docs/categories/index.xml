@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Tech Blog</title>
-    <link>http://appblue.github.io/blog/categories/</link>
+    <link>https://appblue.github.io/blog/categories/</link>
     <description>Recent content in Categories on Tech Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Creative Commons License.</copyright>
     
-	<atom:link href="http://appblue.github.io/blog/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://appblue.github.io/blog/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
