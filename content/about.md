@@ -1,19 +1,11 @@
 +++
 title = "About"
-date = "2014-04-09"
+date = "2019-11-11"
 aliases = ["about-us","about-hugo","contact"]
 [ author ]
-  name = "Hugo Authors"
+  name = "Krzysztof Kielak"
 +++
 
-Hugo is the **world’s fastest framework for building websites**. It is written in Go.
+Welcome to my blog, where I will share my thoghts on technology and discuss variuos topics from functional programming in languages like Haskell, F# and OCaml to assembly programming on Amiga.
 
-It makes use of a variety of open source projects including:
-
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+Learn more about my projects on [GitHub](https://github.com/appblue).
