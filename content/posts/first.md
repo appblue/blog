@@ -1,7 +1,7 @@
 ---
 author:
-  name: "Michael Henderson"
-date: 2014-09-28
+  name: "Krzysztof Kielak"
+date: 2019-11-11
 linktitle: Creating a New Theme
 type:
 - post
