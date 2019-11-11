@@ -7,9 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Creative Commons License.</copyright>
+    <lastBuildDate>Mon, 11 Nov 2019 18:55:50 +0100</lastBuildDate>
     
 	<atom:link href="http://appblue.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>hello</title>
+      <link>http://appblue.github.io/blog/tags/hello/</link>
+      <pubDate>Mon, 11 Nov 2019 18:55:50 +0100</pubDate>
+      
+      <guid>http://appblue.github.io/blog/tags/hello/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

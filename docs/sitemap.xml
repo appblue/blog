@@ -3,21 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://appblue.github.io/blog/tags/hello/</loc>
+    <lastmod>2019-11-11T18:55:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://appblue.github.io/blog/posts/creating-a-new-theme/</loc>
+    <lastmod>2019-11-11T18:55:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://appblue.github.io/blog/posts/</loc>
+    <lastmod>2019-11-11T18:55:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://appblue.github.io/blog/tags/</loc>
+    <lastmod>2019-11-11T18:55:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://appblue.github.io/blog/</loc>
+    <lastmod>2019-11-11T18:55:50+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://appblue.github.io/blog/about/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://appblue.github.io/blog/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://appblue.github.io/blog/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>http://appblue.github.io/blog/tags/</loc>
   </url>
   
 </urlset>
