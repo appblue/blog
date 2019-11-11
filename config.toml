@@ -1,15 +1,13 @@
-baseURL = "https://appblue.github.io/blog"
-title   = "Hello Friend NG"
+baseURL = "http://appblue.github.io/blog"
+languageCode = "en-us"
 
-DefaultContentLanguage = "en"
-
-theme = "hello-friend-ng"
+title = "Tech Blog"
 
 PygmentsCodeFences = true
 PygmentsStyle = "monokai"
 
 rssLimit  = 10  # Maximum number of items in the RSS feed.
-copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
+copyright = "Creative Commons License." # This message is only used by the RSS template.
 
 # googleAnalytics = ""
 # disqusShortname = ""
@@ -34,15 +32,10 @@ disableSitemap = false
 disable404     = false
 disableHugoGeneratorInject = false
 
+theme = "hello-friend-ng"
+
 [author]
   name = "Krzysztof Kielak"
-
-[blackfriday]
-  hrefTargetBlank = true
-
-[taxonomies]
-  tag      = "tags"
-  category = ""
 
 [params]
   dateform        = "Jan 2, 2006"
@@ -50,20 +43,7 @@ disableHugoGeneratorInject = false
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04 -0700"
 
-  # Metadata mostly used in document's head
-  description = "Nice theme for homepages and blogs"
-  keywords = ""
-  images = [""]
-
-  homeSubtitle = "Hello Friend NG"
-
-  # Prefix of link to the git commit detail page. GitInfo must be enabled.
-  # gitUrl = ""
-
-  # Integrate Javascript files or stylesheets by adding the url to the external assets or by
-  # linking local files with their path relative to the static folder, e.g. "css/styles.css"
-  customCSS = []
-  customJS  = []
+  homeSubtitle = "Code. Blog. Code"
 
   # Toggle this option need to rebuild SCSS, requires extended version of Hugo
   justifyContent = false  # Set "text-align: justify" to .content.
@@ -80,12 +60,12 @@ disableHugoGeneratorInject = false
     theme = "#252627"
 
   [params.logo]
-    logoText     = "$ cd /home/"
+    logoText     = "$ sudo reboot"
     logoHomeLink = "/"
     # Set to a valid CSS color to change the cursor in the logo.
     # logoColor    = "#67a2c9"
 
-  # Social icons
+# Social icons
   [[params.social]]
     name = "twitter"
     url  = "https://twitter.com/"
@@ -105,12 +85,6 @@ disableHugoGeneratorInject = false
   [[params.social]]
     name = "stackoverflow"
     url  = "https://www.stackoverflow.com/"
-
-[languages]
-  [languages.en]
-    subtitle  = "Hello Friend NG Theme"
-    weight    = 1
-    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
 [menu]
   [[menu.main]]

@@ -3,21 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://appblue.github.io/blog/about/</loc>
+    <loc>http://appblue.github.io/blog/about/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://appblue.github.io/blog/</loc>
+    <loc>http://appblue.github.io/blog/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://appblue.github.io/blog/posts/</loc>
+    <loc>http://appblue.github.io/blog/categories/</loc>
   </url>
   
   <url>
-    <loc>https://appblue.github.io/blog/tags/</loc>
+    <loc>http://appblue.github.io/blog/tags/</loc>
   </url>
   
 </urlset>

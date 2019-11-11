@@ -1,15 +1,12 @@
 ---
-author:
-  name: "Krzysztof Kielak"
-date: 2019-11-11
-linktitle: Creating a New Theme
-type:
-- post
-- posts
-title: Creating a New Theme
-weight: 10
-series:
-- Hugo 101
+title: "New Hugo Template"
+author: "Krzysztof Kielak"
+date: 2019-11-11T18:55:50+01:00
+draft: true
+toc: false
+images:
+tags:
+  - hello
 ---
 
 
