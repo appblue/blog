@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://appblue.github.io/blog"
 title   = "Hello Friend NG"
 
 DefaultContentLanguage = "en"
@@ -18,7 +18,7 @@ archetypeDir = "archetypes"
 contentDir   = "content"
 dataDir      = "data"
 layoutDir    = "layouts"
-publishDir   = "public"
+publishDir   = "docs"
 
 buildDrafts  = false
 buildFuture  = false
@@ -38,7 +38,7 @@ disableHugoGeneratorInject = false
   posts = "/posts/:year/:month/:title/"
 
 [author]
-  name = "Jane Doe"
+  name = "Krzysztof Kielak"
 
 [blackfriday]
   hrefTargetBlank = true
