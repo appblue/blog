@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tech Blog</title>
-    <link>https://appblue.github.io/blog/</link>
-    <description>Recent content on Tech Blog</description>
+    <title>general on Tech Blog</title>
+    <link>https://appblue.github.io/blog/tags/general/</link>
+    <description>Recent content in general on Tech Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Creative Commons License.</copyright>
     <lastBuildDate>Mon, 11 Nov 2019 20:46:50 +0100</lastBuildDate>
     
-	<atom:link href="https://appblue.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://appblue.github.io/blog/tags/general/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,16 +20,6 @@
       <guid>https://appblue.github.io/blog/posts/intro/</guid>
       <description>Welcome Welcome to my blog, and thanks for stopping by. This site will serve as my public notepad, where I&amp;rsquo;ll be writing about topics that mostly got my attention while I was tinkering with topics like:
  Functional Programming in Clojure, Lisp, F#, OCaml and Haskell; Low-level programming (some ANSI C, m68k/x86 assembly etc.); Distributed systems, especially in the realm of filesystems and databases; Database internals and architecture; Concurrent programming (e.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://appblue.github.io/blog/about/</link>
-      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://appblue.github.io/blog/about/</guid>
-      <description>Welcome to my blog, where I will share my thoghts on technology and discuss variuos topics from functional programming in languages like Haskell, F# and OCaml to assembly programming on Amiga.
-Learn more about my projects on GitHub.</description>
     </item>
     
   </channel>

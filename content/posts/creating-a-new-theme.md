@@ -2,7 +2,7 @@
 title: "New Hugo Template"
 author: "Krzysztof Kielak"
 date: 2019-11-11T18:55:50+01:00
-draft: false
+draft: true
 toc: false
 images:
 tags:
