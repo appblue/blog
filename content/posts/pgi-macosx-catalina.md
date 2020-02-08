@@ -1,7 +1,12 @@
 ---
 title: "How to make PGI work Mac OS X Catalina"
+author: "Krzysztof Kielak"
 date: 2020-02-08T11:21:13+01:00
 draft: false
+toc: false
+images:
+tags:
+  - general
 ---
 
 ## Story
