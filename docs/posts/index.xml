@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Creative Commons License.</copyright>
-    <lastBuildDate>Mon, 11 Nov 2019 20:46:50 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 08 Feb 2020 11:21:13 +0100</lastBuildDate>
     
 	<atom:link href="https://appblue.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How to make PGI work Mac OS X Catalina</title>
+      <link>https://appblue.github.io/blog/posts/pgi-macosx-catalina/</link>
+      <pubDate>Sat, 08 Feb 2020 11:21:13 +0100</pubDate>
+      
+      <guid>https://appblue.github.io/blog/posts/pgi-macosx-catalina/</guid>
+      <description>Story While recently trying to install PGI compilers (community edition 2019) onto my Macbook Air with Mac OS X Catalina I had several problems with compiline simple, hello_world type of program. Hopefully this post will help others with similar problems, and get them up to speed&amp;hellip;
+Installation Installation process is pretty straighforward, as you just need to download .dmg file that, when opened/mounted, presents the only file for your consideration and installation as a standard Mac OS X package.</description>
+    </item>
     
     <item>
       <title>Initial commit</title>
